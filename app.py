@@ -1,4 +1,5 @@
 from flask import Flask
+import ai_buddy
 
 app = Flask(__name__)
 
